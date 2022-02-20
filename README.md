@@ -1,16 +1,43 @@
-### Hi there 👋
+### Ahoy there 👋
 
-<!--
-**mjonesdev/mjonesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a part-time BSc Cyber Security student with a foundation in programming from an intensive coding bootcamp along with years of experience in IT operations.
+<br>
+<br>
+During my time at two bootcamps and employment I've engaged with the programming paradigm concepts such as Object Orientated Programming and Functional Programming along with software developement concepts like Test Driven Development and software design patterns. 
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at mjones4114@outlook.com
+<br>
+💼 Or visit my [LinkedIn](https://www.linkedin.com/in/mjonesnottsdev)
+<br>
+
+### ⚙️ Experienced using the following technologies
+
+**Languages**
+<br>
+![JavaScript](https://img.shields.io/badge/javascript-ffe100?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-0769AD?style=for-the-badge&logo=python&logoColor=white)
+<!--![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=00bbff)-->
+
+**Front End**
+<br>
+![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=00bbff)
+![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-0769AD?style=for-the-badge&logo=css3&logoColor=white)
+<!--![Flutter](https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=00bbff)-->
+
+**Back End**
+<br>
+![Node](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-0769AD?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-b53156?style=for-the-badge&logo=jest&logoColor=white)
+
+**Development Tools**
+<br>
+![Docker](https://img.shields.io/badge/Docker-0769AD?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=00bbff)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+
+
