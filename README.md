@@ -7,9 +7,9 @@ During my time at two bootcamps and through my employment I've engaged with the 
 <br>
 
 
-📫 Reach me at mjones4114@outlook.com
+📫 You can reach me at mjones4114@outlook.com
 <br>
-💼 Or visit my [LinkedIn](https://www.linkedin.com/in/mjonesnottsdev)
+💼 and my LinkedIn [LinkedIn](https://www.linkedin.com/in/mjonesnottsdev)
 <br>
 
 ### ⚙️ Experienced using the following technologies
