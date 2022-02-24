@@ -3,7 +3,7 @@
 🌱 I'm a part-time BSc Cyber Security student with a foundation in programming from an intensive coding bootcamp, alongside several years of experience in IT operations.
 <br>
 <br>
-During my time at two bootcamps and through my employment I've engaged with the programming paradigm concepts such as Object Orientated Programming and Functional Programming along with software development concepts like Test Driven Development and software design patterns. 
+During my time at two bootcamps and through my employment I've engaged with the programming paradigm concepts of Object Orientated Programming and Functional Programming along with software development concepts like Test Driven Development and software design patterns. 
 <br>
 
 
