@@ -1,9 +1,6 @@
 ### Ahoy there 👋
 
-🌱 I'm a part-time BSc Cyber Security student with a foundation in programming from an intensive coding bootcamp, alongside several years of experience in IT operations.
-<br>
-<br>
-During my time at two bootcamps and through my employment I've engaged with the programming paradigm concepts of Object Orientated Programming and Functional Programming along with software development concepts like Test Driven Development and software design patterns. 
+🌱 I'm a Developement Project Manager and part-time BSc Cyber Security student with a foundation in programming from an intensive coding bootcamp, alongside several years of experience in IT operations.
 <br>
 
 
@@ -18,14 +15,14 @@ During my time at two bootcamps and through my employment I've engaged with the 
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-ffe100?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-0769AD?style=for-the-badge&logo=python&logoColor=white)
-<!--![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=00bbff)-->
+![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=00bbff)
 
 **Front End**
 <br>
 ![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=00bbff)
 ![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-0769AD?style=for-the-badge&logo=css3&logoColor=white)
-<!--![Flutter](https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=00bbff)-->
+![Flutter](https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=00bbff)
 
 **Back End**
 <br>
