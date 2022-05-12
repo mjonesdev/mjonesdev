@@ -1,6 +1,6 @@
 ### Ahoy there 👋
 
-🌱 I'm a Developement Project Manager and part-time BSc Cyber Security student with a foundation in programming from an intensive coding bootcamp, alongside several years of experience in IT operations.
+🌱 Developement Project Manager and part-time BSc Cyber Security student with a foundation in programming from an intensive coding bootcamp, alongside several years of experience in IT operations.
 <br>
 
 
