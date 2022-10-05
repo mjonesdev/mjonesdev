@@ -1,10 +1,10 @@
 ### Ahoy there 👋
 
-🌱 Developement Project Manager and part-time BSc Cyber Security student with a foundation in programming from an intensive coding bootcamp, alongside several years of experience in IT operations.
+🌱 Technical professional with a foundation in programming from an intensive coding bootcamp, alongside several years of experience in IT operations and electrical installation.
 <br>
 
 
-📫 You can reach me at mjones4114@outlook.com
+📫 You can reach me at mattjonesengineering@gmail.com
 <br>
 💼 and my [LinkedIn](https://www.linkedin.com/in/mjonesnottsdev)
 <br>
