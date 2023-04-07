@@ -1,6 +1,6 @@
 ### Ahoy there 👋
 
-🌱 Technical professional with a foundation in programming from an intensive coding bootcamp, alongside several years of experience in IT operations and electrical installation.
+🌱 Technical professional with a foundation in programming from an intensive coding bootcamp, alongside several years of experience in IT operations and work in the electrical engineering field.
 <br>
 
 
