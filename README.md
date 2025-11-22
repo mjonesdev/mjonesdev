@@ -3,12 +3,6 @@
 🌱 Technical professional with a foundation in programming from an intensive coding bootcamp, alongside several years of experience in IT operations and work in the electrical engineering field.
 <br>
 
-
-📫 You can reach me at mattjonesengineering@gmail.com
-<br>
-💼 and my [LinkedIn](https://www.linkedin.com/in/mjonesnottsdev)
-<br>
-
 ### ⚙️ Experienced using the following technologies
 
 **Languages**
